@@ -8,6 +8,7 @@ This code belongs to you. Make it yours. Make it great.
 
 - [Translations](#translations)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Translations
 
@@ -35,3 +36,10 @@ This code belongs to you. Make it yours. Make it great.
 ## Contributing
 
 More info to be added.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license. It is based on [this version of The Designer's Code of Ethics](https://github.com/mmmonteiro/designethics/tree/aa4f6275984c2086c3f5d92b982a56a24250d492), which was initiated by Mike Monteiro.
+
+Full text of the license is available here:
+[https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)

@@ -1,4 +1,4 @@
-The Designer's Code of Ethics and full contents of this repository are licensed under
+Code of Design and full contents of this repository are licensed under
 the Creative Commons Attribution-ShareAlike 4.0 International license.
 
 Full text of the license is available here:
