@@ -17,6 +17,7 @@ This code belongs to you. Make it yours. Make it great.
 - [Bahasa Indonesia](id_ID.md)
 - [Čeština](cs.md)
 - [Deutsch](de_DE.md)
+- [English](en_US.md)
 - [Español](es_ES.md)
 - [Español - México](es_MX.md)
 - [Français](fr_FR.md)
