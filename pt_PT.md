@@ -6,7 +6,6 @@ shortname: Português (PT)
 
 # Código de ética de um Designer
 
-
 * [Um Designer é antes de mais um ser humano.](#um-designer-é-antes-de-mais-um-ser-humano)
 * [Um designer é responsável pelo seu trabalho.](#um-designer-é-responsável-pelo-seu-trabalho)
 * [Um designer valoriza ética sobre estética.](#um-designer-valoriza-ética-sobre-estética)
@@ -20,7 +19,6 @@ shortname: Português (PT)
 
 
 ***
-
 
 
 ### Um Designer é antes de mais um ser humano.

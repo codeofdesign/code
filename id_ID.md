@@ -4,7 +4,7 @@ name: Bahasa Indonesia
 shortname: Bahasa Indonesia
 ---
 
-# The Designer’s Code of Ethics
+# A code of design
 
 * [Seorang desainer pada dasarnya adalah seorang manusia.](#seorang-desainer-pada-dasarnya-adalah-seorang-manusia)
 * [Seorang desainer bertanggung jawab atas karya yang ia tempatkan di dunia.](#seorang-desainer-bertanggung-jawab-atas-karya-yang-ia-tempatkan-di-dunia)
