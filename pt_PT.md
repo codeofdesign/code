@@ -1,3 +1,9 @@
+---
+id: pt_PT
+name: Português do Portugal
+shortname: Português (PT)
+---
+
 # Código de ética de um Designer
 
 

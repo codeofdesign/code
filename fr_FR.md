@@ -1,3 +1,9 @@
+---
+id: fr_FR
+name: Français (France)
+shortname: Français (FR)
+---
+
 # Code de déontologie du designer
 
 * [Un designer est d'abord et avant tout un être humain.](#un-designer-est-dabord-et-avant-tout-un-être-humain)

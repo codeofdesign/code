@@ -1,3 +1,9 @@
+---
+id: en_US
+name: English (United States)
+shortname: English (US)
+---
+
 # A code of design
 
 - [A designer is first and foremost a human being.](#a-designer-is-first-and-foremost-a-human-being)

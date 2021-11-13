@@ -1,3 +1,9 @@
+---
+id: fi
+name: Suomi
+shortname: Suomi
+---
+
 # Muotoilijan Eettinen Säännöstö
 
 - [Muotoilija on ennen kaikkea ihminen.](#a-designer-is-first-and-foremost-a-human-being)

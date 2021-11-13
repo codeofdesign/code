@@ -1,3 +1,9 @@
+---
+id: tr_TR
+name: Türkçe
+shortname: Türkçe
+---
+
 # Tasarımcının Etik Kuralları
 
 * [Tasarımcı her şeyden önce ve en önemlisi insandır.](#tasarımcı-her-şeyden-önce-ve-en-önemlisi-insandır)

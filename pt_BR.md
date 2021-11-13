@@ -1,3 +1,9 @@
+---
+id: pt_BR
+name: Português do Brasil
+shortname: Português (BR)
+---
+
 # O Código de Ética para Designers
 
 - [O Código de Ética para Designers](#o-c%c3%b3digo-de-%c3%89tica-para-designers)

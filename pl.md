@@ -1,3 +1,9 @@
+---
+id: pl
+name: Polish
+shortname: Polish
+---
+
 # Kodeks etyczny projektantów
 
 * [Projektanci to przede wszystkim ludzie.](#Projektanci-to-przede-wszystkim-ludzie)

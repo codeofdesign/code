@@ -1,3 +1,9 @@
+---
+id: nn
+name: Norsk nynorsk
+shortname: Nynorsk
+---
+
 # Etiske retningsliner for designarar
 
 * [Etiske retningsliner for designarar](#etiske-retningsliner-for-designarar)

@@ -1,3 +1,9 @@
+---
+id: it_IT
+name: Italiano
+shortname: Italiano
+---
+
 # Il Codice Etico del Designer
 
 * [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)

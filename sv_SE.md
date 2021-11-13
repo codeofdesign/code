@@ -1,3 +1,9 @@
+---
+id: sv_SE
+name: Svenska
+shortname: Svenska
+---
+
 # Etisk kod för designers
 
 

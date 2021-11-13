@@ -1,4 +1,11 @@
+---
+id: nl
+name: Nederlands
+shortname: Nederlands
+---
+
 # Ethische richtlijnen voor ontwerpers
+
 * [Een ontwerper is allereerst en vooral een mens.](#een-ontwerper-is-allereerst-en-vooral-een-mens)
 * [Een ontwerper is verantwoordelijk voor zijn of haar werk.](#een-ontwerper-is-verantwoordelijk-voor-zijn-of-haar-werk)
 * [Een ontwerper vindt de impact belangrijker dan vorm.](een-ontwerper-vindt-de-impact-belangrijker-dan-vorm)

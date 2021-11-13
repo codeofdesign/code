@@ -1,3 +1,9 @@
+---
+id: nb
+name: Norsk bokmål
+shortname: Bokmål
+---
+
 # Etiske retningslinjer for designere
 
 * [Etiske retningslinjer for designere](#etiske-retningslinjer-for-designere)

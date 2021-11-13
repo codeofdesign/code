@@ -1,3 +1,9 @@
+---
+id: id_ID
+name: Bahasa Indonesia
+shortname: Bahasa Indonesia
+---
+
 # The Designer’s Code of Ethics
 
 * [Seorang desainer pada dasarnya adalah seorang manusia.](#seorang-desainer-pada-dasarnya-adalah-seorang-manusia)

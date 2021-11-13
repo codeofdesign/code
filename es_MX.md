@@ -1,3 +1,9 @@
+---
+id: es_MX
+name: Español (México)
+shortname: Español (MX)
+---
+
 # El Código de Ética del Diseñador
 
 

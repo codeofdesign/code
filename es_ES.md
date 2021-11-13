@@ -1,3 +1,9 @@
+---
+id: es_ES
+name: Español (España)
+shortname: Español (ES)
+---
+
 # Código Deontológico del Diseñador
 
 

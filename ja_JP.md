@@ -1,3 +1,9 @@
+---
+id: ja_JP
+name: Japanese
+shortname: Japanese
+---
+
 # デザイナーの倫理規程
 
 - [デザイナーは、まず第一に人間である。](#デザイナーはまず第一に人間である)

@@ -1,3 +1,9 @@
+---
+id: cs
+name: Čeština
+shortname: Čeština
+---
+
 # Etický kód designera
 
 
