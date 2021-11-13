@@ -1,0 +1,23 @@
+{
+  "name": "codeofdesign",
+  "version": "0.1.0",
+  "description": "A designer's code of ethics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeofdesign/code.git"
+  },
+  "keywords": [
+    "design",
+    "ethics"
+  ],
+  "author": "Simon Dagfinrud",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/codeofdesign/code/issues"
+  },
+  "homepage": "https://github.com/codeofdesign/code#readme"
+}

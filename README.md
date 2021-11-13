@@ -13,13 +13,13 @@ This code belongs to you. Make it yours. Make it great.
 ## Translations
 
 - [Arabic (العَرَبِيَّة)](ar.md)
-- [Farsi (فارسی)](fa.md)
 - [Bahasa Indonesia](id_ID.md)
 - [Čeština](cs.md)
 - [Deutsch](de_DE.md)
 - [English (US)](en_US.md)
-- [Español](es_ES.md)
-- [Español - México](es_MX.md)
+- [Español (España)](es_ES.md)
+- [Español (México)](es_MX.md)
+- [Farsi (فارسی)](fa.md)
 - [Français](fr_FR.md)
 - [Italiano](it_IT.md)
 - [Japanese](ja_JP.md)
