@@ -1,4 +1,4 @@
-# The Designer’s Code of Ethics
+# A code of design
 
 - [A designer is first and foremost a human being.](#a-designer-is-first-and-foremost-a-human-being)
 - [A designer is responsible for the work they put into the world.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
