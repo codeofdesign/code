@@ -15,7 +15,7 @@ shortname: Nynorsk
 * [Ein designar strevar etter å kjenne dei ein designar for](#ein-designar-strevar-etter-å-kjenne-dei-ein-designar-for)
 * [Ein designar trur ikkje på unntakstilfelle](#ein-designar-trur-ikkje-på-unntakstilfelle)
 * [Ein designar deltek i ein profesjonell fellesskap](#ein-designar-deltek-i-ein-profesjonell-fellesskap)
-* [Ein designar verdset eit mangfaldig og konkurransedyktig felt](#ein-designar-verdset-eit-mangfaldig-og-konkurransedyktig-felt)
+* [Ein designar verdset ein mangfaldig og konkurransedyktig fellesskap](#ein-designar-verdset-ein-mangfaldig-og-konkurransedyktig-fellesskap)
 * [Ein designar tek seg tid til sjølvrefleksjon](#ein-designar-tek-seg-tid-til-sjølvrefleksjon)
 
 ***
