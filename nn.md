@@ -33,7 +33,7 @@ Design er ei handling. Du er ansvarleg for det du introduserer til verda. Arbeid
 
 Arbeidet du introduserer til verda er ettermælet ditt. Det lev lenger enn deg. Og det vil snakke for deg.
 
-### Ein designar verdset verknad over form.
+### Ein designar verdset verknad framfor form.
 
 Vi må frykte konsekvensane av det vi lagar, heller enn å elske kor lure idéane våre er.
 
@@ -79,7 +79,7 @@ Medan ein designar har ei etisk plikt til å tene til sitt eige liv så godt dei
 
 Ein designar ønskar å bygge fellesskapen, ikkje dele den opp.
 
-### Ein designar verdset eit mangfaldig og konkurransedyktig felt.
+### Ein designar verdset ein mangfaldig og konkurransedyktig fellesskap.
 
 Ein designar ønskar å lære gjennom heile karriera si. Det inneber å konfrontere det ein ikkje veit. Det inneber å lytte til erfaringane til andre menneske. Det inneber å invitere og oppfordre folk frå andre bakgrunnar og kulturar. Det inneber å gje plass rundt bordet til folk som samfunnet historisk sett har haldt nede. Vi må gje plass i yrket vårt til som tradisjonelt sett har blitt marginalisert. Mangfald fører til betre resultat og løyisngar. Mangfald fører til betre design.
 
