@@ -10,6 +10,9 @@ on:
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'v0.')"
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v2
         with:
@@ -18,16 +21,12 @@ jobs:
         with:
           node-version: 14
           registry-url: https://registry.npmjs.org/
-      - name: Authenticate with npm/git
-        run: |
+      - run: |
           git config user.name 'Simon Dagfinrud'
           git config user.email '17279882+s-rd@users.noreply.github.com'
-      - name: Version with NPM and publish
-        run: |
           npm version minor
           npm publish
-      - name: Commit new version to repo
-        run: git push origin main
+          git push origin main
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
           GH_TOKEN: ${{secrets.GH_TOKEN}}
