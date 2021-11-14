@@ -2,6 +2,7 @@
 id: es_ES
 name: Español (España)
 shortname: Español (ES)
+complete: true
 ---
 
 # Código Deontológico del Diseñador

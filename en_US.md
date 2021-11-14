@@ -2,6 +2,7 @@
 id: en_US
 name: English (United States)
 shortname: English (US)
+complete: true
 ---
 
 # A code of design

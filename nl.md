@@ -2,6 +2,7 @@
 id: nl
 name: Nederlands
 shortname: Nederlands
+complete: false
 ---
 
 # Ethische richtlijnen voor ontwerpers

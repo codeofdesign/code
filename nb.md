@@ -2,6 +2,7 @@
 id: nb
 name: Norsk bokmål
 shortname: Bokmål
+complete: true
 ---
 
 # Etiske retningslinjer for designere

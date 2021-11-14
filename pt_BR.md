@@ -2,6 +2,7 @@
 id: pt_BR
 name: Português do Brasil
 shortname: Português (BR)
+complete: true
 ---
 
 # O Código de Ética para Designers

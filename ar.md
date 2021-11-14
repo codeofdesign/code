@@ -2,6 +2,7 @@
 id: ar
 name: العَرَبِيَّة
 shortname: العَرَبِيَّة
+complete: true
 ---
 
 <div dir="rtl">

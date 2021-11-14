@@ -2,6 +2,7 @@
 id: de_DE
 name: Deutsch
 shortname: Deutsch
+complete: true
 ---
 
 # Ethische Grundsätze für Gestalterinnen und Gestalter

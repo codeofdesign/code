@@ -2,6 +2,7 @@
 id: id_ID
 name: Bahasa Indonesia
 shortname: Bahasa Indonesia
+complete: true
 ---
 
 # A code of design

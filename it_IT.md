@@ -2,6 +2,7 @@
 id: it_IT
 name: Italiano
 shortname: Italiano
+complete: false
 ---
 
 # Il Codice Etico del Designer

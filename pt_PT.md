@@ -2,6 +2,7 @@
 id: pt_PT
 name: Português do Portugal
 shortname: Português (PT)
+complete: true
 ---
 
 # Código de ética de um Designer

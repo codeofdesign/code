@@ -2,6 +2,7 @@
 id: fa
 name: فارسی
 shortname: فارسی
+complete: true
 ---
 
 <div dir="rtl">

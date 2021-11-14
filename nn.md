@@ -2,6 +2,7 @@
 id: nn
 name: Norsk nynorsk
 shortname: Nynorsk
+complete: true
 ---
 
 # Etiske retningsliner for designarar

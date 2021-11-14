@@ -2,6 +2,7 @@
 id: cs
 name: Čeština
 shortname: Čeština
+complete: true
 ---
 
 # Etický kód designera

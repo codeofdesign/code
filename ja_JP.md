@@ -2,6 +2,7 @@
 id: ja_JP
 name: Japanese
 shortname: Japanese
+complete: true
 ---
 
 # デザイナーの倫理規程

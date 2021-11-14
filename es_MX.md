@@ -2,6 +2,7 @@
 id: es_MX
 name: Español (México)
 shortname: Español (MX)
+complete: true
 ---
 
 # El Código de Ética del Diseñador

@@ -2,6 +2,7 @@
 id: tr_TR
 name: Türkçe
 shortname: Türkçe
+complete: true
 ---
 
 # Tasarımcının Etik Kuralları

@@ -2,6 +2,7 @@
 id: fr_FR
 name: Français (France)
 shortname: Français (FR)
+complete: true
 ---
 
 # Code de déontologie du designer

@@ -2,6 +2,7 @@
 id: fi
 name: Suomi
 shortname: Suomi
+complete: true
 ---
 
 # Muotoilijan Eettinen Säännöstö

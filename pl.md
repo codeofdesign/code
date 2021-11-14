@@ -2,6 +2,7 @@
 id: pl
 name: Polish
 shortname: Polish
+complete: true
 ---
 
 # Kodeks etyczny projektantów

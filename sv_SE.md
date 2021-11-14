@@ -2,6 +2,7 @@
 id: sv_SE
 name: Svenska
 shortname: Svenska
+complete: true
 ---
 
 # Etisk kod för designers
