@@ -10,7 +10,7 @@ This code belongs to you. Make it yours. Make it great.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Translations
+## Versions
 
 - [Arabic (العَرَبِيَّة)](ar.md)
 - [Bahasa Indonesia](id_ID.md)

@@ -20,11 +20,11 @@ import ru_RU from './ru_RU.md'
 import sv_SE from './sv_SE.md'
 import tr_TR from './tr_TR.md'
 
-const translations = [
+const versions = [
   ar, cs, de_DE, en_US, es_ES, es_MX,
   fa, fi, fr_FR, id_ID, it_IT, ja_JP,
   nb, nl, nn, pl, pt_BR, pt_PT, ru_RU,
   sv_SE, tr_TR,
 ]
 
-export default translations
+export default versions
