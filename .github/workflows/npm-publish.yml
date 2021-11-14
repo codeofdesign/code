@@ -11,6 +11,7 @@ jobs:
   publish-npm:
     runs-on: ubuntu-latest
     if: |
+      !contains(github.event.head_commit.message, 'skip ci') &&
       !contains(github.event.head_commit.message, '0.') &&
       !contains(github.event.head_commit.message, '1.') &&
       !contains(github.event.head_commit.message, '2.') &&
@@ -32,6 +33,7 @@ jobs:
           npm version minor
           npm publish
           git push origin main
+          git push --tags origin main
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
           GH_TOKEN: ${{secrets.GH_TOKEN}}
