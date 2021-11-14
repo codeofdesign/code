@@ -33,7 +33,7 @@ Il design è una disciplina d'azione. Sei responsabile per ciò che immetti nel 
 
 Il lavoro che porti nel mondo è la tua eredità. Continuerà a vivere dopo di te. E parlerà per te.
 
-### Il designer preferisce l'effetto allo stile
+### Il designer preferisce l'effetto allo stile.
 
 Dobbiamo temere le conseguenze del nostro lavoro più di quanto amiamo l'astuzia delle nostre idee.
 
@@ -46,7 +46,7 @@ In caso fosse impossibile eliminare questo impatto negativo, è il tuo lavoro pr
 
 Il designer usa la propria competenza al servizio di terzi, senza essere uno schiavo. Saper dire di no è un'abilità del designer. Chiedere perché è un'abilità del designer. Alzare gli occhi al cielo non lo è. Chiedersi perchè stiamo producendo qualcosa è una domanda infinitamente migliore che chiedersi se siamo in grado di produrla.
 
-### Un designer accetta le critiche
+### Un designer accetta le critiche.
 
 Nessun codice etico dovrebbe proteggerti dalle critiche, siano queste da parte dei clienti, dal pubblico, da altri designer. Dovresti, invece, incoraggiare le critiche in modo da produrre miglior lavoro nel futuro. Se il tuo lavoro è così fragile da non essere in grado da sostenere alcuna critica, non dovrebbe esistere. Bisogna controllare bene le gomme sulle ruote del tuo lavoro ben prima che venga rilasciato per le strade. E sii aperto a critiche da ogni dove.
 
@@ -54,7 +54,7 @@ Il ruolo del giudizio critico, quando appropriato e ben formulato, è di valutar
 
 Il giudizio critico andrebbe chiesto, ed accettato, durante ogni fase del processo di progettazione. Non puoi rimediare una torta venuta male una volta cotta. Ma puoi aumentare le possibilità che un progetto abbia successo ottenendo riscontro dal principio, e spesso. É tua responsabilità richiere un giudizio critico per il tuo lavoro.
 
-### Un designer si impegna a conoscere il proprio pubblico
+### Un designer si impegna a conoscere il proprio pubblico.
 
 Il Design è una soluzione intenzionale ad un problema ottenuta operando all'interno di un numero di vincoli. Per capire se stai risolvendo con successo questi problemi è necessario conoscere le persone che stanno incontrando questi problemi. E, se sei parte di un gruppo di lavoro, il tuo gruppo si deve impegnare nel rispecchiare queste persone. Quanto più un gruppo di lavoro riesce a rispecchiare il pubblico per cui sta risolvendo unb problema, tanto più riuscirà a risolverlo completamente. Il gruppo di lavoro sarà in grado di affrontare il problema da diversi punti di vista, da ambienti diversi, da diversi insiemi di necessità ed esperienze. Un gruppo con un singolo punto di vista non sarà mai in grado di capire a fondo i vincoli del progetto così come un gruppo in grado di osservare lo stesso da più punti di vista.
 

@@ -69,7 +69,7 @@ Facebook claimt dat het nu twee miljard gebruikers heeft. 1% van twee miljard me
 
 Dit zijn geen randgevallen. Dit zijn mensen, en wij zijn hen niets minder dan ons beste werk verschuldigt.
 
-### Een ontwerper is deel van de professionele community
+### Een ontwerper is deel van de professionele community.
 
 *Vertaling volgt*
 

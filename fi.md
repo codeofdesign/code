@@ -6,16 +6,16 @@ shortname: Suomi
 
 # Muotoilijan Eettinen Säännöstö
 
-- [Muotoilija on ennen kaikkea ihminen.](#a-designer-is-first-and-foremost-a-human-being)
-- [Muotoilija on vastuussa työstään.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
-- [ Muotoilija arvostaa vaikuttavuutta muodon ylitse.](#a-designer-values-impact-over-form)
-- [Suunnittelijan vastuulla antaa hänet palkkaavalle ihmiselle myös neuvoa..](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
-- [Suunnittelija suhtautuu myönteisesti kritiikkiin.](#a-designer-welcomes-criticism)
-- [Suunnittelija pyrkii tuntemaan yleisönsä.](#a-designer-strives-to-know-their-audience)
-- [Suunnittelija ei usko reunatapauksiin.](#a-designer-does-not-believe-in-edge-cases)
-- [Suunnittelija on osa ammatillista yhteisöä.](#a-designer-is-part-of-a-professional-community)
-- [Suunnittelija pitää tervetulleena monipuolista ja kilpailukykyistä alaa.](#a-designer-welcomes-a-diverse-and-competitive-field)
-- [Suunnitelijan on reflektoitava.](#a-designer-takes-time-for-self-reflection)
+- [Muotoilija on ennen kaikkea ihminen.](#muotoilija-on-ennen-kaikkea-ihminen)
+- [Muotoilija on vastuussa työstään.](#muotoilija-on-vastuussa-työstään)
+- [ Muotoilija arvostaa vaikuttavuutta muodon ylitse.](#muotoilija-arvostaa-vaikuttavuutta-muodon-ylitse)
+- [Suunnittelijan vastuulla antaa hänet palkkaavalle ihmiselle myös neuvoa.](#suunnittelijan-vastuulla-antaa-hänet-palkkaavalle-ihmiselle-myös-neuvoa)
+- [Suunnittelija suhtautuu myönteisesti kritiikkiin.](#suunnittelija-suhtautuu-myönteisesti-kritiikkiin)
+- [Suunnittelija pyrkii tuntemaan yleisönsä.](#suunnittelija-pyrkii-tuntemaan-yleisönsä)
+- [Suunnittelija ei usko reunatapauksiin.](#suunnittelija-ei-usko-reunatapauksiin)
+- [Suunnittelija on osa ammatillista yhteisöä.](#suunnittelija-on-osa-ammatillista-yhteisöä)
+- [Suunnittelija pitää tervetulleena monipuolista ja kilpailukykyistä alaa.](#suunnittelija-pitää-tervetulleena-monipuolista-ja-kilpailukykyistä-alaa)
+- [Suunnitelijan on reflektoitava.](#suunnitelijan-on-reflektoitava)
 
 ---
 
@@ -45,7 +45,7 @@ Kun sinut palkataan suunnittelemaan jotain, sinut palkkataan asiantuntemuksesi p
 
 Suunnittelija käyttää asiantuntemustaan ​​muiden palveluksessa olematta kuitenkaan palvelija. Kyky sano ei on suunnittelua. Kysymys miksi on suunnittelua. Silmien pyörittäminen ei ole. Kysyminen itseltään, miksi teemme jotain, on paljon parempi kysymys kuin onko jokin mahdollista.
 
-### Suunnittelija suhtautuu myönteisesti kritiikkiin
+### Suunnittelija suhtautuu myönteisesti kritiikkiin.
 
 Mikään eettinen säännöstä ei saisi suojata työtäsi kritiikiltä, olipa se sitten asiakkailta, kansalta tai muilta sunnittelijoilta. Sen sijaan sinun tulisi rohkaista kritiikkiä paremman työn luomiseksi tulevaisuudessa. Jos työsi on niin herkkä, että se ei kestä kritiikkiä, sitä ei pitäisi olla. Aika potkia työsi renkaita, tulee ennen kuin renkaat osuvat tiehen. Ole avoin kritiikille, tuli se keneltä tahansa.
 

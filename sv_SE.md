@@ -11,7 +11,7 @@ shortname: Svenska
 * [En designer värderar påverkan över form.](#en-designer-värderar-påverkan-över-form)
 * [En designer är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt omdöme.](#en-designer-är-skyldig-sina-uppdragsgivare-inte-bara-sitt-arbete-utan-även-sitt-omdöme)
 * [En designer välkomnar kritik.](#en-designer-välkomnar-kritik)
-* [En designer strävar efter att känna sin målgrupp](#en-designer-strävar-efter-att-känna-sin-målgrupp)
+* [En designer strävar efter att känna sin målgrupp.](#en-designer-strävar-efter-att-känna-sin-målgrupp)
 * [En designer tror inte på extremfall.](#en-designer-tror-inte-på-extremfall)
 * [En designer är en del av en professionell gemenskap.](#en-designer-är-en-del-av-en-professionell-gemenskap)
 * [En designer välkomnar ett fält präglat av mångfald och konkurrenskraft.](#en-designer-välkomnar-ett-fält-präglat-av-mångfald-och-konkurrenskraft)

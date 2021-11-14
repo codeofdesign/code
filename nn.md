@@ -6,17 +6,17 @@ shortname: Nynorsk
 
 # Etiske retningsliner for designarar
 
-* [Etiske retningsliner for designarar](#etiske-retningsliner-for-designarar)
-* [Ein designar er fyrst og fremst eit menneske](#ein-designar-er-fyrst-og-fremst-eit-menneske)
-* [Ein designar er ansvarleg for arbeidet som vert laga](#ein-designar-er-ansvarleg-for-arbeidet-som-vert-laga)
-* [Ein designar verdset verknad over form](#ein-designar-verdset-verknad-over-form)
-* [Ein designar forpliktar seg til å gje oppdragsgjevarane sine råd – ikkje berre arbeid](#ein-designar-forpliktar-seg-til-å-gje-oppdragsgjevarane-sine-råd--ikkje-berre-arbeid)
-* [Ein designar verdset og oppfordrar til kritikk](#ein-designar-verdset-og-oppfordrar-til-kritikk)
-* [Ein designar strevar etter å kjenne dei ein designar for](#ein-designar-strevar-etter-å-kjenne-dei-ein-designar-for)
-* [Ein designar trur ikkje på unntakstilfelle](#ein-designar-trur-ikkje-på-unntakstilfelle)
-* [Ein designar deltek i ein profesjonell fellesskap](#ein-designar-deltek-i-ein-profesjonell-fellesskap)
-* [Ein designar verdset ein mangfaldig og konkurransedyktig fellesskap](#ein-designar-verdset-ein-mangfaldig-og-konkurransedyktig-fellesskap)
-* [Ein designar tek seg tid til sjølvrefleksjon](#ein-designar-tek-seg-tid-til-sjølvrefleksjon)
+* [Etiske retningsliner for designarar.](#etiske-retningsliner-for-designarar)
+* [Ein designar er fyrst og fremst eit menneske.](#ein-designar-er-fyrst-og-fremst-eit-menneske)
+* [Ein designar er ansvarleg for arbeidet som vert laga.](#ein-designar-er-ansvarleg-for-arbeidet-som-vert-laga)
+* [Ein designar verdset verknad over form.](#ein-designar-verdset-verknad-over-form)
+* [Ein designar forpliktar seg til å gje oppdragsgjevarane sine råd – ikkje berre arbeid.](#ein-designar-forpliktar-seg-til-å-gje-oppdragsgjevarane-sine-råd--ikkje-berre-arbeid)
+* [Ein designar verdset og oppfordrar til kritikk.](#ein-designar-verdset-og-oppfordrar-til-kritikk)
+* [Ein designar strevar etter å kjenne dei ein designar for.](#ein-designar-strevar-etter-å-kjenne-dei-ein-designar-for)
+* [Ein designar trur ikkje på unntakstilfelle.](#ein-designar-trur-ikkje-på-unntakstilfelle)
+* [Ein designar deltek i ein profesjonell fellesskap.](#ein-designar-deltek-i-ein-profesjonell-fellesskap)
+* [Ein designar verdset ein mangfaldig og konkurransedyktig fellesskap.](#ein-designar-verdset-ein-mangfaldig-og-konkurransedyktig-fellesskap)
+* [Ein designar tek seg tid til sjølvrefleksjon.](#ein-designar-tek-seg-tid-til-sjølvrefleksjon)
 
 ***
 
