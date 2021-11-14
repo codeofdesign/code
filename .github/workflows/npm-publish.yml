@@ -1,6 +1,5 @@
 # This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
 # For more information see: https://help.github.com/actions/language-and-framework-guides/publishing-nodejs-packages
-
 name: Publish package
 
 on:
@@ -13,33 +12,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{secrets.GH_TOKEN}}
       - uses: actions/setup-node@v2
         with:
           node-version: 14
           registry-url: https://registry.npmjs.org/
-      - run: |
+      - name: Authenticate with npm/git
+        run: |
           git config user.name 'Simon Dagfinrud'
           git config user.email '17279882+s-rd@users.noreply.github.com'
+      - name: Version with NPM and publish
+        run: |
           npm version minor
           npm publish
+      - name: Commit new version to repo
+        run: git push origin main
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-
-  publish-gpr:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-        with:
-          node-version: 14
-          registry-url: https://npm.pkg.github.com/
-      - run: |
-          git config user.name 'Simon Dagfinrud'
-          git config user.email '17279882+s-rd@users.noreply.github.com'
-          npm version minor
-          npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
+          GH_TOKEN: ${{secrets.GH_TOKEN}}
