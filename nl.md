@@ -19,7 +19,6 @@ shortname: Nederlands
 
 ***
 
-
 ### Een ontwerper is allereerst en vooral een mens.
 
 Voordat je een ontwerper bent, ben je een mens. Net als ieder mens op deze planeet, ben je onderdeel van een sociale omgeving. We delen de planeet. Ontwerper zijn is een keuze en zorgt ervoor dat mensen die in contact komen met je werk geholpen of juist gekwetst worden door je acties. Het effect van wát jij met je werk verweeft in de maatschappij zou altijd een belangrijke overweging moeten zijn.
@@ -27,7 +26,6 @@ Voordat je een ontwerper bent, ben je een mens. Net als ieder mens op deze plane
 Elk mens op deze planeet heeft een verplichting om de planeet in een betere staat achter te laten dan we deze vonden. Ontwerpers kunnen zich daar niet van terugtrekken.
 
 Als je werk doet dat afhankelijk is van inkomensongelijkheid of verschillen in klasse om succes te behalen, dan heb je gefaald als burger en daarmee ook als ontwerper.
-
 
 ### Een ontwerper is verantwoordelijk voor zijn of haar werk.
 
@@ -40,7 +38,6 @@ Het werk dat je op aarde zet is jouw nalatenschap. Het zal langer bestaan dan ji
 We zouden ons drukker moeten maken over de gevolgen van ons werk, dan hoe briljant wij onze ideëen wel niet vinden.
 
 Ontwerp leeft niet in een vacuum. De maatschappij is het grootste systeem waar wij invloed op hebben en alles wat wij doen is daar onderdeel van, goed of slecht. Uiteindelijk moeten wij ons werk beoordelen op de impact, in plaats van de esthetische afwegingen. Een object dat ontwerpen is om schade toe te brengen kan niet als goed ontworpen beschouwd worden, hoe prachtig het er ook uit mag zijn, omdat mooi ontwerp in dit geval een slechte impact heeft of anderen. Niets wat een totalitair regime ontwerpt is goed ontworpen, omdat het ontworpen is door een totalitair regime.
-
 
 ### Een ontwerper verricht niet alleen arbeid voor diegene die hem inhuren, maar geeft ook advies.
 
@@ -62,7 +59,6 @@ Ontwerp is het opzettelijke oplossing voor een probleem onder bepaalde voorwaard
 
 En empathie dan? Empathie is een duur woord voor uitsluiting. Als je wilt weten hoe vrouwen gebruikmaken van iets dat jij ontwerpt zorg ervoor dat er een vrouw in het team zit dat dit product ontwerpt.
 
-
 ### Een ontwerper gelooft niet in randgevallen.
 
 Wanneer je besloten hebt voor wie je iets ontwerpt, maak je een impliciete verklaring voor wie je het níet ontwerpt. Voor jaren hebben wij verwezen naar mensen wie niet cruciaal waren voor onze producten als "edge cases". Hierbij marginaliseerde wij groepen. En wij maakte de beslissing dat er groepen waren in de wereld wiens problemen het niet waard waren om opgelost te worden.
@@ -73,17 +69,13 @@ Facebook claimt dat het nu twee miljard gebruikers heeft. 1% van twee miljard me
 
 Dit zijn geen randgevallen. Dit zijn mensen, en wij zijn hen niets minder dan ons beste werk verschuldigt.
 
-
-
 ### Een ontwerper is deel van de professionele community
 
 *Vertaling volgt*
 
-
 ### Een ontwerper staat open voor een competitief en divers werkveld.
 
 *Vertaling volgt*
-
 
 ### Een ontwerper neemt tijd voor zelfreflectie.
 

@@ -18,7 +18,7 @@ shortname: Português (BR)
 - [Designers valorizam um campo diverso e competitivo.](#designers-valorizam-um-campo-diverso-e-competitivo)
 - [Designers investem em auto reflexão.](#designers-investem-em-auto-reflex%c3%a3o)
 
----
+***
 
 ### Designers são antes de tudo e principalmente seres humanos.
 
