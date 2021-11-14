@@ -41,4 +41,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{secrets.GH_TOKEN}}
+          repository: codeofdesign/website
           event-type: update-cofd
