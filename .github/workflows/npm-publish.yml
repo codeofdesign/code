@@ -10,7 +10,7 @@ on:
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, 'v0.')"
+    if: "!contains(github.event.head_commit.message, '*.*.*')"
     permissions:
       contents: read
     steps:
