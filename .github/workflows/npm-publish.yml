@@ -10,7 +10,12 @@ on:
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, '*.*.*')"
+    if: |
+      !contains(github.event.head_commit.message, '0.') &&
+      !contains(github.event.head_commit.message, '1.') &&
+      !contains(github.event.head_commit.message, '2.') &&
+      !contains(github.event.head_commit.message, '3.') &&
+      !contains(github.event.head_commit.message, '4.')
     permissions:
       contents: read
     steps:
