@@ -7,16 +7,16 @@ complete: true
 
 # Etisk kod för designers
 
-* [En designer är först och främst en mänsklig varelse.](#en-designer-är-först-och-främst-en-mänsklig-varelse)
-* [En designer är ansvarig för det arbete hen tillför världen.](#en-designer-är-ansvarig-för-det-arbete-hen-tillför-världen)
-* [En designer värderar påverkan över form.](#en-designer-värderar-påverkan-över-form)
-* [En designer är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt omdöme.](#en-designer-är-skyldig-sina-uppdragsgivare-inte-bara-sitt-arbete-utan-även-sitt-omdöme)
-* [En designer välkomnar kritik.](#en-designer-välkomnar-kritik)
-* [En designer strävar efter att känna sin målgrupp.](#en-designer-strävar-efter-att-känna-sin-målgrupp)
-* [En designer tror inte på extremfall.](#en-designer-tror-inte-på-extremfall)
-* [En designer är en del av en professionell gemenskap.](#en-designer-är-en-del-av-en-professionell-gemenskap)
-* [En designer välkomnar ett fält präglat av mångfald och konkurrenskraft.](#en-designer-välkomnar-ett-fält-präglat-av-mångfald-och-konkurrenskraft)
-* [En designer tar sig tid för självreflektion.](#en-designer-tar-sig-tid-för-självreflektion)
+1. [En designer är först och främst en mänsklig varelse.](#en-designer-är-först-och-främst-en-mänsklig-varelse)
+2. [En designer är ansvarig för det arbete hen tillför världen.](#en-designer-är-ansvarig-för-det-arbete-hen-tillför-världen)
+3. [En designer värderar påverkan över form.](#en-designer-värderar-påverkan-över-form)
+4. [En designer är skyldig sina uppdragsgivare inte bara sitt arbete utan även sitt omdöme.](#en-designer-är-skyldig-sina-uppdragsgivare-inte-bara-sitt-arbete-utan-även-sitt-omdöme)
+5. [En designer välkomnar kritik.](#en-designer-välkomnar-kritik)
+6. [En designer strävar efter att känna sin målgrupp.](#en-designer-strävar-efter-att-känna-sin-målgrupp)
+7. [En designer tror inte på extremfall.](#en-designer-tror-inte-på-extremfall)
+8. [En designer är en del av en professionell gemenskap.](#en-designer-är-en-del-av-en-professionell-gemenskap)
+9. [En designer välkomnar ett fält präglat av mångfald och konkurrenskraft.](#en-designer-välkomnar-ett-fält-präglat-av-mångfald-och-konkurrenskraft)
+10. [En designer tar sig tid för självreflektion.](#en-designer-tar-sig-tid-för-självreflektion)
 
 ***
 

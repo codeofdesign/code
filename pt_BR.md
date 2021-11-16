@@ -7,16 +7,16 @@ complete: true
 
 # O Código de Ética para Designers
 
-- [Designers são antes de tudo e principalmente seres humanos.](#designers-s%c3%a3o-antes-de-tudo-e-principalmente-seres-humanos)
-- [Designers são responsáveis pelo trabalho que colocam no mundo.](#designers-s%c3%a3o-respons%c3%a1veis-pelo-trabalho-que-colocam-no-mundo)
-- [Designers valorizam impacto sobre a forma.](#designers-valorizam-impacto-sobre-a-forma)
-- [Designers devem às pessoas que os contrataram não apenas seu trabalho, mas seu conselho.](#designers-devem-%c3%a0s-pessoas-que-os-contrataram-n%c3%a3o-apenas-seu-trabalho-mas-seu-conselho)
-- [Designers valorizam críticas.](#designers-valorizam-cr%c3%adticas)
-- [Designers devem conhecer sua audiência.](#designers-devem-conhecer-sua-audi%c3%aancia)
-- [Designers não acreditam em casos isolados.](#designers-n%c3%a3o-acreditam-em-casos-isolados)
-- [Designers são parte de uma comunidade profissional.](#designers-s%c3%a3o-parte-de-uma-comunidade-profissional)
-- [Designers valorizam um campo diverso e competitivo.](#designers-valorizam-um-campo-diverso-e-competitivo)
-- [Designers investem em auto reflexão.](#designers-investem-em-auto-reflex%c3%a3o)
+1. [Designers são antes de tudo e principalmente seres humanos.](#designers-s%c3%a3o-antes-de-tudo-e-principalmente-seres-humanos)
+2. [Designers são responsáveis pelo trabalho que colocam no mundo.](#designers-s%c3%a3o-respons%c3%a1veis-pelo-trabalho-que-colocam-no-mundo)
+3. [Designers valorizam impacto sobre a forma.](#designers-valorizam-impacto-sobre-a-forma)
+4. [Designers devem às pessoas que os contrataram não apenas seu trabalho, mas seu conselho.](#designers-devem-%c3%a0s-pessoas-que-os-contrataram-n%c3%a3o-apenas-seu-trabalho-mas-seu-conselho)
+5. [Designers valorizam críticas.](#designers-valorizam-cr%c3%adticas)
+6. [Designers devem conhecer sua audiência.](#designers-devem-conhecer-sua-audi%c3%aancia)
+7. [Designers não acreditam em casos isolados.](#designers-n%c3%a3o-acreditam-em-casos-isolados)
+8. [Designers são parte de uma comunidade profissional.](#designers-s%c3%a3o-parte-de-uma-comunidade-profissional)
+9. [Designers valorizam um campo diverso e competitivo.](#designers-valorizam-um-campo-diverso-e-competitivo)
+10. [Designers investem em auto reflexão.](#designers-investem-em-auto-reflex%c3%a3o)
 
 ***
 

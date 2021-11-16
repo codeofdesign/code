@@ -7,16 +7,16 @@ complete: true
 
 # A code of design
 
-* [Seorang desainer pada dasarnya adalah seorang manusia.](#seorang-desainer-pada-dasarnya-adalah-seorang-manusia)
-* [Seorang desainer bertanggung jawab atas karya yang ia tempatkan di dunia.](#seorang-desainer-bertanggung-jawab-atas-karya-yang-ia-tempatkan-di-dunia)
-* [Seorang desainer mementingkan dampak daripada bentuk.](#seorang-desainer-mementingkan-dampak-daripada-bentuk)
-* [Seorang desainer berhutang kepada orang-orang yang mempekerjakannya bukan hanya hasil kerjanya, tetapi juga bimbingannya.](#seorang-desainer-berhutang-kepada-orang-orang-yang-mempekerjakannya-bukan-hanya-hasil-kerjanya-tetapi-juga-bimbingannya)
-* [Seorang desainer terbuka terhadap kritik.](#seorang-desainer-terbuka-terhadap-kritik)
-* [Seorang desainer berusaha untuk mengenali audiensnya.](#seorang-desainer-berusaha-untuk-mengenali-audiensnya)
-* [Seorang desainer tidak membenarkan kasus-kasus pinggiran.](#seorang-desainer-tidak-membenarkan-kasus-kasus-pinggiran)
-* [Seorang desainer adalah bagian dari komunitas profesional.](#seorang-desainer-adalah-bagian-dari-komunitas-profesional)
-* [Seorang desainer terbuka terhadap bidang yang beragam dan kompetitif.](#seorang-desainer-terbuka-terhadap-bidang-yang-beragam-dan-kompetitif)
-* [Seorang desainer membutuhkan waktu untuk refleksi diri.](#seorang-desainer-membutuhkan-waktu-untuk-refleksi-diri)
+1. [Seorang desainer pada dasarnya adalah seorang manusia.](#seorang-desainer-pada-dasarnya-adalah-seorang-manusia)
+2. [Seorang desainer bertanggung jawab atas karya yang ia tempatkan di dunia.](#seorang-desainer-bertanggung-jawab-atas-karya-yang-ia-tempatkan-di-dunia)
+3. [Seorang desainer mementingkan dampak daripada bentuk.](#seorang-desainer-mementingkan-dampak-daripada-bentuk)
+4. [Seorang desainer berhutang kepada orang-orang yang mempekerjakannya bukan hanya hasil kerjanya, tetapi juga bimbingannya.](#seorang-desainer-berhutang-kepada-orang-orang-yang-mempekerjakannya-bukan-hanya-hasil-kerjanya-tetapi-juga-bimbingannya)
+5. [Seorang desainer terbuka terhadap kritik.](#seorang-desainer-terbuka-terhadap-kritik)
+6. [Seorang desainer berusaha untuk mengenali audiensnya.](#seorang-desainer-berusaha-untuk-mengenali-audiensnya)
+7. [Seorang desainer tidak membenarkan kasus-kasus pinggiran.](#seorang-desainer-tidak-membenarkan-kasus-kasus-pinggiran)
+8. [Seorang desainer adalah bagian dari komunitas profesional.](#seorang-desainer-adalah-bagian-dari-komunitas-profesional)
+9. [Seorang desainer terbuka terhadap bidang yang beragam dan kompetitif.](#seorang-desainer-terbuka-terhadap-bidang-yang-beragam-dan-kompetitif)
+10. [Seorang desainer membutuhkan waktu untuk refleksi diri.](#seorang-desainer-membutuhkan-waktu-untuk-refleksi-diri)
 
 ***
 

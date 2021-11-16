@@ -7,16 +7,16 @@ complete: true
 
 # Código Deontológico del Diseñador
 
-* [Un diseñador es antes que nada un ser humano.](#un-diseñador-es-antes-que-nada-un-ser-humano)
-* [Un diseñador es responsable del trabajo que publica.](#un-diseñador-es-responsable-del-trabajo-que-publica)
-* [Un diseñador valora el impacto por encima de la forma.](#un-diseñador-valora-el-impacto-por-encima-de-la-forma)
-* [Un diseñador debe proporcionar a la gente que le contrata no solo su trabajo, si no también su consejo.](#un-diseñador-debe-proporcionar-a-la-gente-que-le-contrata-no-solo-su-trabajo-si-no-también-su-consejo)
-* [Un diseñador agradece las críticas.](#un-diseñador-agradece-las-críticas)
-* [Un diseñador se esfuerza por conocer a su audiencia.](#un-diseñador-se-esfuerza-por-conocer-a-su-audiencia)
-* [Un diseñador no cree en las excepciones.](#un-diseñador-no-cree-en-las-excepciones)
-* [Un diseñador es parte de una comunidad profesional.](#un-diseñador-es-parte-de-una-comunidad-profesional)
-* [Un diseñador agradece un entorno diverso y competitivo.](#un-diseñador-agradece-un-entorno-diverso-y-competitivo)
-* [Un diseñador dedica tiempo a la introspección.](#un-diseñador-dedica-tiempo-a-la-introspección)
+1. [Un diseñador es antes que nada un ser humano.](#un-diseñador-es-antes-que-nada-un-ser-humano)
+2. [Un diseñador es responsable del trabajo que publica.](#un-diseñador-es-responsable-del-trabajo-que-publica)
+3. [Un diseñador valora el impacto por encima de la forma.](#un-diseñador-valora-el-impacto-por-encima-de-la-forma)
+4. [Un diseñador debe proporcionar a la gente que le contrata no solo su trabajo, si no también su consejo.](#un-diseñador-debe-proporcionar-a-la-gente-que-le-contrata-no-solo-su-trabajo-si-no-también-su-consejo)
+5. [Un diseñador agradece las críticas.](#un-diseñador-agradece-las-críticas)
+6. [Un diseñador se esfuerza por conocer a su audiencia.](#un-diseñador-se-esfuerza-por-conocer-a-su-audiencia)
+7. [Un diseñador no cree en las excepciones.](#un-diseñador-no-cree-en-las-excepciones)
+8. [Un diseñador es parte de una comunidad profesional.](#un-diseñador-es-parte-de-una-comunidad-profesional)
+9. [Un diseñador agradece un entorno diverso y competitivo.](#un-diseñador-agradece-un-entorno-diverso-y-competitivo)
+10. [Un diseñador dedica tiempo a la introspección.](#un-diseñador-dedica-tiempo-a-la-introspección)
 
 ***
 

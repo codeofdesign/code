@@ -7,16 +7,16 @@ complete: true
 
 # Code de déontologie du designer
 
-* [Un designer est d'abord et avant tout un être humain.](#un-designer-est-dabord-et-avant-tout-un-être-humain)
-* [Un designer est responsable du travail qu'il réalise et propose au monde.](#un-designer-est-responsable-du-travail-quil-réalise-et-propose-au-monde)
-* [Un designer valorise l'impact avant la forme.](#un-designer-valorise-limpact-avant-la-forme)
-* [Un designer doit à ceux qui l'emploient non seulement son travail, mais aussi ses conseils.](#un-designer-doit-à-ceux-qui-lembauchent-non-seulement-son-travail-mais-aussi-ses-conseils)
-* [Un designer accueille positiviment les critiques.](#un-designer-accueille-positivement-les-critiques)
-* [Un designer s'efforce de connaître son public.](#un-designer-sefforce-de-connaître-son-public)
-* [Un designer ne croit pas aux cas limites.](#un-designer-ne-croit-pas-aux-cas-limites)
-* [Un designer fait partie d'une communauté professionnelle.](#un-designer-fait-partie-dune-communauté-professionnelle)
-* [Un designer est en faveur d’un domaine diversifié et concurrentiel.](#un-designer-est-en-faveur-dun-domaine-diversifié-et-concurrentiel)
-* [Un designer se réserve du temps pour l'introspection.](#un-designer-se-réserve-du-temps-pour-lintrospection)
+1. [Un designer est d'abord et avant tout un être humain.](#un-designer-est-dabord-et-avant-tout-un-être-humain)
+2. [Un designer est responsable du travail qu'il réalise et propose au monde.](#un-designer-est-responsable-du-travail-quil-réalise-et-propose-au-monde)
+3. [Un designer valorise l'impact avant la forme.](#un-designer-valorise-limpact-avant-la-forme)
+4. [Un designer doit à ceux qui l'emploient non seulement son travail, mais aussi ses conseils.](#un-designer-doit-à-ceux-qui-lembauchent-non-seulement-son-travail-mais-aussi-ses-conseils)
+5. [Un designer accueille positiviment les critiques.](#un-designer-accueille-positivement-les-critiques)
+6. [Un designer s'efforce de connaître son public.](#un-designer-sefforce-de-connaître-son-public)
+7. [Un designer ne croit pas aux cas limites.](#un-designer-ne-croit-pas-aux-cas-limites)
+8. [Un designer fait partie d'une communauté professionnelle.](#un-designer-fait-partie-dune-communauté-professionnelle)
+9. [Un designer est en faveur d’un domaine diversifié et concurrentiel.](#un-designer-est-en-faveur-dun-domaine-diversifié-et-concurrentiel)
+10. [Un designer se réserve du temps pour l'introspection.](#un-designer-se-réserve-du-temps-pour-lintrospection)
 
 ***
 

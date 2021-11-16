@@ -7,18 +7,18 @@ complete: false
 
 # Il Codice Etico del Designer
 
-* [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
-* [Il designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
-* [Il designer tiene più all'impatto che alla forma.](#il-designer-preferisce-leffetto-allo-stile)
-* [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
-* [Il designer accoglie le critiche.](#a-designer-welcomes-criticism)
-* [Il designer ambisce a conoscere il proprio pubblico.](#a-designer-strives-to-know-their-audience)
-* [Il designer non crede nei casi limite.](#a-designer-does-not-believe-in-edge-cases)
-* [Il designer fa parte di una comunità di professionisti.](#a-designer-is-part-of-a-professional-community)
-* [Il designer accoglie la diversità e la competitività nel suo campo.](#a-designer-welcomes-a-diverse-and-competitive-field)
-* [Il designer dedica tempo all'autoriflessione.](#a-designer-takes-time-for-self-reflection)
+1. [Il designer è prima di tutto un essere umano.](#il-designer-è-prima-di-tutto-un-essere-umano)
+2. [Il designer è responsabile del lavoro che immette nel mondo.](#il-designer-è-responsabile-del-lavoro-che-immette-nel-mondo)
+3. [Il designer tiene più all'impatto che alla forma.](#il-designer-preferisce-leffetto-allo-stile)
+4. [Il designer ha l'obbligo di fornire al datore di lavoro non solo la propria manodopera ma anche il proprio parere.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
+5. [Il designer accoglie le critiche.](#a-designer-welcomes-criticism)
+6. [Il designer ambisce a conoscere il proprio pubblico.](#a-designer-strives-to-know-their-audience)
+7. [Il designer non crede nei casi limite.](#a-designer-does-not-believe-in-edge-cases)
+8. [Il designer fa parte di una comunità di professionisti.](#a-designer-is-part-of-a-professional-community)
+9. [Il designer accoglie la diversità e la competitività nel suo campo.](#a-designer-welcomes-a-diverse-and-competitive-field)
+10. [Il designer dedica tempo all'autoriflessione.](#a-designer-takes-time-for-self-reflection)
 
----
+***
 
 ### Il designer è prima di tutto un essere umano.
 

@@ -7,18 +7,18 @@ complete: true
 
 # Muotoilijan Eettinen Säännöstö
 
-- [Muotoilija on ennen kaikkea ihminen.](#muotoilija-on-ennen-kaikkea-ihminen)
-- [Muotoilija on vastuussa työstään.](#muotoilija-on-vastuussa-työstään)
-- [ Muotoilija arvostaa vaikuttavuutta muodon ylitse.](#muotoilija-arvostaa-vaikuttavuutta-muodon-ylitse)
-- [Suunnittelijan vastuulla antaa hänet palkkaavalle ihmiselle myös neuvoa.](#suunnittelijan-vastuulla-antaa-hänet-palkkaavalle-ihmiselle-myös-neuvoa)
-- [Suunnittelija suhtautuu myönteisesti kritiikkiin.](#suunnittelija-suhtautuu-myönteisesti-kritiikkiin)
-- [Suunnittelija pyrkii tuntemaan yleisönsä.](#suunnittelija-pyrkii-tuntemaan-yleisönsä)
-- [Suunnittelija ei usko reunatapauksiin.](#suunnittelija-ei-usko-reunatapauksiin)
-- [Suunnittelija on osa ammatillista yhteisöä.](#suunnittelija-on-osa-ammatillista-yhteisöä)
-- [Suunnittelija pitää tervetulleena monipuolista ja kilpailukykyistä alaa.](#suunnittelija-pitää-tervetulleena-monipuolista-ja-kilpailukykyistä-alaa)
-- [Suunnitelijan on reflektoitava.](#suunnitelijan-on-reflektoitava)
+1. [Muotoilija on ennen kaikkea ihminen.](#muotoilija-on-ennen-kaikkea-ihminen)
+2. [Muotoilija on vastuussa työstään.](#muotoilija-on-vastuussa-työstään)
+3. [ Muotoilija arvostaa vaikuttavuutta muodon ylitse.](#muotoilija-arvostaa-vaikuttavuutta-muodon-ylitse)
+4. [Suunnittelijan vastuulla antaa hänet palkkaavalle ihmiselle myös neuvoa.](#suunnittelijan-vastuulla-antaa-hänet-palkkaavalle-ihmiselle-myös-neuvoa)
+5. [Suunnittelija suhtautuu myönteisesti kritiikkiin.](#suunnittelija-suhtautuu-myönteisesti-kritiikkiin)
+6. [Suunnittelija pyrkii tuntemaan yleisönsä.](#suunnittelija-pyrkii-tuntemaan-yleisönsä)
+7. [Suunnittelija ei usko reunatapauksiin.](#suunnittelija-ei-usko-reunatapauksiin)
+8. [Suunnittelija on osa ammatillista yhteisöä.](#suunnittelija-on-osa-ammatillista-yhteisöä)
+9. [Suunnittelija pitää tervetulleena monipuolista ja kilpailukykyistä alaa.](#suunnittelija-pitää-tervetulleena-monipuolista-ja-kilpailukykyistä-alaa)
+10. [Suunnitelijan on reflektoitava.](#suunnitelijan-on-reflektoitava)
 
----
+***
 
 ### Muotoilija on ennen kaikkea ihminen.
 

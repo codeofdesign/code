@@ -7,21 +7,21 @@ complete: true
 
 # Etiske retningslinjer for designere
 
-* [Etiske retningslinjer for designere](#etiske-retningslinjer-for-designere)
-* [En designer er først og fremst et menneske.](#en-designer-er-f%C3%B8rst-og-fremst-et-menneske)
-* [En designer er ansvarlig for det som lages.](#en-designer-er-ansvarlig-for-det-som-lages)
-* [En designer verdsetter virkning over form.](#en-designer-verdsetter-virkning-over-form)
-* [En designer er forpliktet å gi sine oppdragsgivere sine råd og ikke kun sitt arbeid.](#en-designer-er-forpliktet-%C3%A5-gi-sine-oppdragsgivere-sine-r%C3%A5d-og-ikke-kun-sitt-arbeid)
-* [En designer ønsker kritikk.](#en-designer-%C3%B8nsker-kritikk)
-* [En designer søker å kjenne de man designer for.](#en-designer-s%C3%B8ker-%C3%A5-kjenne-de-man-designer-for)
-* [En designer tror ikke på unntakstilfeller.](#en-designer-tror-ikke-p%C3%A5-unntakstilfeller)
-* [En designer tar del i et profesjonelt fellesskap.](#en-designer-tar-del-i-et-profesjonelt-fellesskap)
-* [En designer ønsker et mangfoldig og kompetitiv felt.](#en-designer-%C3%B8nsker-et-mangfoldig-og-kompetitiv-felt)
-* [En designer tar seg tid til selv-refleksjon.](#en-designer-tar-seg-tid-til-selv-refleksjon)
+1. [En designer er først og fremst et menneske.](#en-designer-er-f%C3%B8rst-og-fremst-et-menneske)
+2. [En designer er ansvarlig for det som lages.](#en-designer-er-ansvarlig-for-det-som-lages)
+3. [En designer verdsetter virkning over form.](#en-designer-verdsetter-virkning-over-form)
+4. [En designer er forpliktet å gi sine oppdragsgivere sine råd og ikke kun sitt arbeid.](#en-designer-er-forpliktet-%C3%A5-gi-sine-oppdragsgivere-sine-r%C3%A5d-og-ikke-kun-sitt-arbeid)
+5. [En designer ønsker kritikk.](#en-designer-%C3%B8nsker-kritikk)
+6. [En designer søker å kjenne de man designer for.](#en-designer-s%C3%B8ker-%C3%A5-kjenne-de-man-designer-for)
+7. [En designer tror ikke på unntakstilfeller.](#en-designer-tror-ikke-p%C3%A5-unntakstilfeller)
+8. [En designer tar del i et profesjonelt fellesskap.](#en-designer-tar-del-i-et-profesjonelt-fellesskap)
+9. [En designer ønsker et mangfoldig og kompetitiv felt.](#en-designer-%C3%B8nsker-et-mangfoldig-og-kompetitiv-felt)
+10. [En designer tar seg tid til selv-refleksjon.](#en-designer-tar-seg-tid-til-selv-refleksjon)
 
 ***
 
 ### En designer er først og fremst et menneske.
+
 Du er først og fremst et menneske, dernest designer. Som alle andre mennesker på jorda, tar du del i den sosiale kontrakten. Vi deler planeten. Når du velger å være en designer, velger du å påvirke de som kommer i kontakt med arbeidet ditt. Du kan enten hjelpe dem eller hindre dem med dine handlinger. Arbeidet ditt bør alltid ha dets innvirkning på samfunnet som et hovedannliggende.
 
 Alle mennesker er forpliktet til å gjøre sitt beste for å etterlate kloden i en bedre tilstand enn den de kom til. Designere kan ikke frasi seg dette ansvaret.

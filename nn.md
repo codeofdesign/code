@@ -7,21 +7,21 @@ complete: true
 
 # Etiske retningsliner for designarar
 
-* [Etiske retningsliner for designarar.](#etiske-retningsliner-for-designarar)
-* [Ein designar er fyrst og fremst eit menneske.](#ein-designar-er-fyrst-og-fremst-eit-menneske)
-* [Ein designar er ansvarleg for arbeidet som vert laga.](#ein-designar-er-ansvarleg-for-arbeidet-som-vert-laga)
-* [Ein designar verdset verknad over form.](#ein-designar-verdset-verknad-over-form)
-* [Ein designar forpliktar seg til å gje oppdragsgjevarane sine råd – ikkje berre arbeid.](#ein-designar-forpliktar-seg-til-å-gje-oppdragsgjevarane-sine-råd--ikkje-berre-arbeid)
-* [Ein designar verdset og oppfordrar til kritikk.](#ein-designar-verdset-og-oppfordrar-til-kritikk)
-* [Ein designar strevar etter å kjenne dei ein designar for.](#ein-designar-strevar-etter-å-kjenne-dei-ein-designar-for)
-* [Ein designar trur ikkje på unntakstilfelle.](#ein-designar-trur-ikkje-på-unntakstilfelle)
-* [Ein designar deltek i ein profesjonell fellesskap.](#ein-designar-deltek-i-ein-profesjonell-fellesskap)
-* [Ein designar verdset ein mangfaldig og konkurransedyktig fellesskap.](#ein-designar-verdset-ein-mangfaldig-og-konkurransedyktig-fellesskap)
-* [Ein designar tek seg tid til sjølvrefleksjon.](#ein-designar-tek-seg-tid-til-sjølvrefleksjon)
+1. [Ein designar er fyrst og fremst eit menneske.](#ein-designar-er-fyrst-og-fremst-eit-menneske)
+2. [Ein designar er ansvarleg for arbeidet som vert laga.](#ein-designar-er-ansvarleg-for-arbeidet-som-vert-laga)
+3. [Ein designar verdset verknad over form.](#ein-designar-verdset-verknad-over-form)
+4. [Ein designar forpliktar seg til å gje oppdragsgjevarane sine råd – ikkje berre arbeid.](#ein-designar-forpliktar-seg-til-å-gje-oppdragsgjevarane-sine-råd--ikkje-berre-arbeid)
+5. [Ein designar verdset og oppfordrar til kritikk.](#ein-designar-verdset-og-oppfordrar-til-kritikk)
+6. [Ein designar strevar etter å kjenne dei ein designar for.](#ein-designar-strevar-etter-å-kjenne-dei-ein-designar-for)
+7. [Ein designar trur ikkje på unntakstilfelle.](#ein-designar-trur-ikkje-på-unntakstilfelle)
+8. [Ein designar deltek i ein profesjonell fellesskap.](#ein-designar-deltek-i-ein-profesjonell-fellesskap)
+9. [Ein designar verdset ein mangfaldig og konkurransedyktig fellesskap.](#ein-designar-verdset-ein-mangfaldig-og-konkurransedyktig-fellesskap)
+10. [Ein designar tek seg tid til sjølvrefleksjon.](#ein-designar-tek-seg-tid-til-sjølvrefleksjon)
 
 ***
 
 ### Ein designar er fyrst og fremst eit menneske.
+
 Du er fyrst og fremst eit menneske, deretter designar. Som alle andre menneske i verda, deltek du i ei sosial kontrakt. Vi delar planeten. Når du vel å vere ein designar, vel du å påverke alle dei som er borti arbeidet ditt. Du kan anten hjelpe eller skade dei med handlingane dine. Konsekvensane av handlingane dine og verknaden dei har på verda bør alltid vere eit hovudfokus.
 
 Alle menneske er forplikta til å gjere sitt beste for å etterlate verda i ein betre tilstand enn då ein kom til. Designarar kan ikkje seie frå seg dette ansvaret.

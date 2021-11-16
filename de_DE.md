@@ -7,16 +7,16 @@ complete: true
 
 # Ethische Grundsätze für Gestalterinnen und Gestalter
 
-* [Gestalter_innen sind in erster Linie Menschen.](#gestalter_innen-sind-in-erster-linie-menschen)
-* [Gestalter_innen sind verantwortlich für die Arbeit, die sie in die Welt bringen.](#gestalter_innen-sind-verantwortlich-für-die-arbeit-die-sie-in-die-welt-bringen)
-* [Gestalter_innen schätzen Auswirkungen höher als Form.](#gestalter_innen-schätzen-auswirkungen-höher-als-form)
-* [Gestalter_innen schulden denjenigen, die sie engagieren nicht nur ihre Arbeit, sondern auch ihren Rat.](#gestalter_innen-schulden-denjenigen-die-sie-engagieren-nicht-nur-ihre-arbeit-sondern-auch-ihren-rat)
-* [Gestalter_innen heißen Kritik willkommen.](#gestalter_innen-heißen-kritik-willkommen)
-* [Gestalter_innen streben danach, ihre Zielgruppe zu kennen.](#gestalter_innen-streben-danach-ihre-zielgruppe-zu-kennen)
-* [Gestalter_innen glauben nicht an Grenzfälle.](#gestalter_innen-glauben-nicht-an-grenzfälle)
-* [Gestalter_innen sind Teil einer professionellen Gemeinschaft.](#gestalter_innen-sind-teil-einer-professionellen-gemeinschaft)
-* [Gestalter_innen schätzen vielfältige und herausfordernde Umfelder.](#gestalter_innen-schätzen-vielfältige-und-herausfordernde-umfelder)
-* [Gestalter_innen nehmen sich Zeit für Selbstbesinnung.](#gestalter_innen-nehmen-sich-zeit-für-selbstbesinnung)
+1. [Gestalter_innen sind in erster Linie Menschen.](#gestalter_innen-sind-in-erster-linie-menschen)
+2. [Gestalter_innen sind verantwortlich für die Arbeit, die sie in die Welt bringen.](#gestalter_innen-sind-verantwortlich-für-die-arbeit-die-sie-in-die-welt-bringen)
+3. [Gestalter_innen schätzen Auswirkungen höher als Form.](#gestalter_innen-schätzen-auswirkungen-höher-als-form)
+4. [Gestalter_innen schulden denjenigen, die sie engagieren nicht nur ihre Arbeit, sondern auch ihren Rat.](#gestalter_innen-schulden-denjenigen-die-sie-engagieren-nicht-nur-ihre-arbeit-sondern-auch-ihren-rat)
+5. [Gestalter_innen heißen Kritik willkommen.](#gestalter_innen-heißen-kritik-willkommen)
+6. [Gestalter_innen streben danach, ihre Zielgruppe zu kennen.](#gestalter_innen-streben-danach-ihre-zielgruppe-zu-kennen)
+7. [Gestalter_innen glauben nicht an Grenzfälle.](#gestalter_innen-glauben-nicht-an-grenzfälle)
+8. [Gestalter_innen sind Teil einer professionellen Gemeinschaft.](#gestalter_innen-sind-teil-einer-professionellen-gemeinschaft)
+9. [Gestalter_innen schätzen vielfältige und herausfordernde Umfelder.](#gestalter_innen-schätzen-vielfältige-und-herausfordernde-umfelder)
+10. [Gestalter_innen nehmen sich Zeit für Selbstbesinnung.](#gestalter_innen-nehmen-sich-zeit-für-selbstbesinnung)
 
 ***
 

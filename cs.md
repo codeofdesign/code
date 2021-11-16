@@ -7,16 +7,16 @@ complete: true
 
 # Etický kód designera
 
-* [Designer je především člověk.](#designer-je-p%C5%99edev%C5%A1%C3%ADm-%C4%8Dlov%C4%9Bk)
-* [Designer je zodpovědný za práci, kterou vypustí do světa.](#designer-je-zodpov%C4%9Bdn%C3%BD-za-pr%C3%A1ci-kterou-vypust%C3%AD-do-sv%C4%9Bta)
-* [Designer dává přednost dopadu před formou.](#designer-d%C3%A1v%C3%A1-p%C5%99ednost-dopadu-p%C5%99ed-formou)
-* [Designer nedluží lidem, kteří si ho/ji najmou, jen svou práci, ale i své rady.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
-* [Designer vítá kritiku.](#designer-d%C3%A1v%C3%A1-p%C5%99ednost-dopadu-p%C5%99ed-formou)
-* [Designer se snaží poznat své publikum.](#designer-nedlu%C5%BE%C3%AD-lidem-kte%C5%99%C3%AD-si-hoji-najmou-jen-svou-pr%C3%A1ci-ale-i-sv%C3%A9-rady)
-* [Designer nevěří v krajní případy.](#designer-nev%C4%9B%C5%99%C3%AD-v-krajn%C3%AD-p%C5%99%C3%ADpady)
-* [Designer je součástí profesionální komunity.](#designer-je-sou%C4%8D%C3%A1st%C3%AD-profesion%C3%A1ln%C3%AD-komunity)
-* [Designer vítá rozmanité a konkurenční prostředí.](#designer-v%C3%ADt%C3%A1-rozmanit%C3%A9-a-konkuren%C4%8Dn%C3%AD-prost%C5%99ed%C3%AD)
-* [Designer si dělá čas na sebereflexi.](#designer-si-d%C4%9Bl%C3%A1-%C4%8Das-na-sebereflexi)
+1. [Designer je především člověk.](#designer-je-p%C5%99edev%C5%A1%C3%ADm-%C4%8Dlov%C4%9Bk)
+2. [Designer je zodpovědný za práci, kterou vypustí do světa.](#designer-je-zodpov%C4%9Bdn%C3%BD-za-pr%C3%A1ci-kterou-vypust%C3%AD-do-sv%C4%9Bta)
+3. [Designer dává přednost dopadu před formou.](#designer-d%C3%A1v%C3%A1-p%C5%99ednost-dopadu-p%C5%99ed-formou)
+4. [Designer nedluží lidem, kteří si ho/ji najmou, jen svou práci, ale i své rady.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
+5. [Designer vítá kritiku.](#designer-d%C3%A1v%C3%A1-p%C5%99ednost-dopadu-p%C5%99ed-formou)
+6. [Designer se snaží poznat své publikum.](#designer-nedlu%C5%BE%C3%AD-lidem-kte%C5%99%C3%AD-si-hoji-najmou-jen-svou-pr%C3%A1ci-ale-i-sv%C3%A9-rady)
+7. [Designer nevěří v krajní případy.](#designer-nev%C4%9B%C5%99%C3%AD-v-krajn%C3%AD-p%C5%99%C3%ADpady)
+8. [Designer je součástí profesionální komunity.](#designer-je-sou%C4%8D%C3%A1st%C3%AD-profesion%C3%A1ln%C3%AD-komunity)
+9. [Designer vítá rozmanité a konkurenční prostředí.](#designer-v%C3%ADt%C3%A1-rozmanit%C3%A9-a-konkuren%C4%8Dn%C3%AD-prost%C5%99ed%C3%AD)
+10. [Designer si dělá čas na sebereflexi.](#designer-si-d%C4%9Bl%C3%A1-%C4%8Das-na-sebereflexi)
 
 ***
 

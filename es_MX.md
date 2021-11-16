@@ -7,16 +7,16 @@ complete: true
 
 # El Código de Ética del Diseñador
 
-* [Un diseñador es ante todo un ser humano.](#Un-diseñador-es-ante-todo-un-ser-humano)
-* [Un diseñador es responsable por el trabajo que trae al mundo.](#Un-diseñador-es-responsable-por-el-trabajo-que-trae-al-mundo)
-* [Un diseñador valora el impacto sobre la forma.](#Un-diseñador-valora-el-impacto-sobre-la-forma)
-* [Un diseñador debe a las personas que lo contratan no sólo su trabajo, también su consejo.](#Un-diseñador-debe-a-las-personas-que-lo-contratan-no-sólo-su-trabajo,-también-su-consejo)
-* [Un diseñador agradece la crítica.](#Un-diseñador-agradece-la-crítica)
-* [Un diseñador se esfuerza por conocer a su audiencia.](#Un-diseñador-se-esfuerza-por-conocer-a-su-audiencia)
-* [Un diseñador no cree en casos extremos.](#Un-diseñador-no-cree-en-casos-extremos)
-* [Un diseñador es parte de una comunidad profesional.](#Un-diseñador-es-parte-de-una-comunidad-profesional)
-* [Un diseñador agradece un entorno diverso y competitivo.](#Un-diseñador-agradece-un-entorno-diverso-y-competitivo)
-* [Un diseñador toma tiempo para la autorreflexión.](#Un-diseñador-toma-tiempo-para-la-autorreflexión)
+1. [Un diseñador es ante todo un ser humano.](#Un-diseñador-es-ante-todo-un-ser-humano)
+2. [Un diseñador es responsable por el trabajo que trae al mundo.](#Un-diseñador-es-responsable-por-el-trabajo-que-trae-al-mundo)
+3. [Un diseñador valora el impacto sobre la forma.](#Un-diseñador-valora-el-impacto-sobre-la-forma)
+4. [Un diseñador debe a las personas que lo contratan no sólo su trabajo, también su consejo.](#Un-diseñador-debe-a-las-personas-que-lo-contratan-no-sólo-su-trabajo,-también-su-consejo)
+5. [Un diseñador agradece la crítica.](#Un-diseñador-agradece-la-crítica)
+6. [Un diseñador se esfuerza por conocer a su audiencia.](#Un-diseñador-se-esfuerza-por-conocer-a-su-audiencia)
+7. [Un diseñador no cree en casos extremos.](#Un-diseñador-no-cree-en-casos-extremos)
+8. [Un diseñador es parte de una comunidad profesional.](#Un-diseñador-es-parte-de-una-comunidad-profesional)
+9. [Un diseñador agradece un entorno diverso y competitivo.](#Un-diseñador-agradece-un-entorno-diverso-y-competitivo)
+10. [Un diseñador toma tiempo para la autorreflexión.](#Un-diseñador-toma-tiempo-para-la-autorreflexión)
 
 ***
 

@@ -7,16 +7,16 @@ complete: true
 
 # Tasarımcının Etik Kuralları
 
-* [Tasarımcı her şeyden önce ve en önemlisi insandır.](#tasarımcı-her-şeyden-önce-ve-en-önemlisi-insandır)
-* [Tasarımcı dünyaya sunduğu işten sorumludur.](#tasarımcı-dünyaya-sunduğu-işten-sorumludur)
-* [Tasarımcı etkiye biçimden daha çok değer verir.](#tasarımcı-etkiye-biçimden-daha-çok-değer-verir)
-* [Tasarımcı işverenlerine emeğinin yanı sıra danışmanlık da sağlamalıdır.](#tasarımcı-işverenlerine-emeğinin-yanı-sıra-danışmanlık-da-sağlamalıdır)
-* [Tasarımcı eleştiriyi hoşgörüyle karşılar.](#tasarımcı-eleştiriyi-hoşgörüyle-karşılar)
-* [Tasarımcı kitlesini tanımak için uğraşır.](#tasarımcı-kitlesini-tanımak-için-uğraşır)
-* [Tasarımcı uç vakalara inanmaz.](#tasarımcı-uç-vakalara-inanmaz)
-* [Tasarımcı profesyonel bir topluluğun parçasıdır.](#tasarımcı-profesyonel-bir-topluluğun-parçasıdır)
-* [Tasarımcı farklılıklarla dolu ve rekabetçi bir ortamı hoşgörüyle karşılar.](#tasarımcı-farklılıklarla-dolu-ve-rekabetçi-bir-ortamı-hoşgörüyle-karşılar)
-* [Tasarımcı kendi üzerine düşünmeye zaman ayırır.](#tasarımcı-kendi-üzerine-düşünmeye-zaman-ayırır)
+1. [Tasarımcı her şeyden önce ve en önemlisi insandır.](#tasarımcı-her-şeyden-önce-ve-en-önemlisi-insandır)
+2. [Tasarımcı dünyaya sunduğu işten sorumludur.](#tasarımcı-dünyaya-sunduğu-işten-sorumludur)
+3. [Tasarımcı etkiye biçimden daha çok değer verir.](#tasarımcı-etkiye-biçimden-daha-çok-değer-verir)
+4. [Tasarımcı işverenlerine emeğinin yanı sıra danışmanlık da sağlamalıdır.](#tasarımcı-işverenlerine-emeğinin-yanı-sıra-danışmanlık-da-sağlamalıdır)
+5. [Tasarımcı eleştiriyi hoşgörüyle karşılar.](#tasarımcı-eleştiriyi-hoşgörüyle-karşılar)
+6. [Tasarımcı kitlesini tanımak için uğraşır.](#tasarımcı-kitlesini-tanımak-için-uğraşır)
+7. [Tasarımcı uç vakalara inanmaz.](#tasarımcı-uç-vakalara-inanmaz)
+8. [Tasarımcı profesyonel bir topluluğun parçasıdır.](#tasarımcı-profesyonel-bir-topluluğun-parçasıdır)
+9. [Tasarımcı farklılıklarla dolu ve rekabetçi bir ortamı hoşgörüyle karşılar.](#tasarımcı-farklılıklarla-dolu-ve-rekabetçi-bir-ortamı-hoşgörüyle-karşılar)
+10. [Tasarımcı kendi üzerine düşünmeye zaman ayırır.](#tasarımcı-kendi-üzerine-düşünmeye-zaman-ayırır)
 
 ***
 

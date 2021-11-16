@@ -7,16 +7,16 @@ complete: false
 
 # Ethische richtlijnen voor ontwerpers
 
-* [Een ontwerper is allereerst en vooral een mens.](#een-ontwerper-is-allereerst-en-vooral-een-mens)
-* [Een ontwerper is verantwoordelijk voor zijn of haar werk.](#een-ontwerper-is-verantwoordelijk-voor-zijn-of-haar-werk)
-* [Een ontwerper vindt de impact belangrijker dan vorm.](een-ontwerper-vindt-de-impact-belangrijker-dan-vorm)
-* [Een ontwerper verricht niet alleen arbeid voor diegene die hem inhuren, maar geeft ook advies.](#een-ontwerper-verricht-niet-alleen-arbeid-voor-diegene-die-hem-inhuren-maar-geeft-ook-advies)
-* [Een ontwerper staat open voor kritiek.](#een-ontwerper-staat-open-voor-kritiek)
-* [Een ontwerper wil zijn publiek leren kennen.](#een-ontwerper-wil-zijn-publiek-leren-kennen)
-* [Een ontwerper gelooft niet in randgevallen.](#een-ontwerper-gelooft-niet-in-randgevallen)
-* [Een ontwerper is deel van de professionele community.](#een-ontwerper-is-deel-van-de-professionele-community)
-* [Een ontwerper staat open voor een competitief en divers werkveld.](#een-ontwerper-staat-open-voor-een-competitief-en-divers-werkveld)
-* [Een ontwerper neemt tijd voor zelfreflectie.](#een-ontwerper-neemt-tijd-voor-zelfreflectie)
+1. [Een ontwerper is allereerst en vooral een mens.](#een-ontwerper-is-allereerst-en-vooral-een-mens)
+2. [Een ontwerper is verantwoordelijk voor zijn of haar werk.](#een-ontwerper-is-verantwoordelijk-voor-zijn-of-haar-werk)
+3. [Een ontwerper vindt de impact belangrijker dan vorm.](een-ontwerper-vindt-de-impact-belangrijker-dan-vorm)
+4. [Een ontwerper verricht niet alleen arbeid voor diegene die hem inhuren, maar geeft ook advies.](#een-ontwerper-verricht-niet-alleen-arbeid-voor-diegene-die-hem-inhuren-maar-geeft-ook-advies)
+5. [Een ontwerper staat open voor kritiek.](#een-ontwerper-staat-open-voor-kritiek)
+6. [Een ontwerper wil zijn publiek leren kennen.](#een-ontwerper-wil-zijn-publiek-leren-kennen)
+7. [Een ontwerper gelooft niet in randgevallen.](#een-ontwerper-gelooft-niet-in-randgevallen)
+8. [Een ontwerper is deel van de professionele community.](#een-ontwerper-is-deel-van-de-professionele-community)
+9. [Een ontwerper staat open voor een competitief en divers werkveld.](#een-ontwerper-staat-open-voor-een-competitief-en-divers-werkveld)
+10. [Een ontwerper neemt tijd voor zelfreflectie.](#een-ontwerper-neemt-tijd-voor-zelfreflectie)
 
 ***
 

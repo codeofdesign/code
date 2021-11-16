@@ -7,16 +7,16 @@ complete: true
 
 # Código de ética de um Designer
 
-* [Um Designer é antes de mais um ser humano.](#um-designer-é-antes-de-mais-um-ser-humano)
-* [Um designer é responsável pelo seu trabalho.](#um-designer-é-responsável-pelo-seu-trabalho)
-* [Um designer valoriza ética sobre estética.](#um-designer-valoriza-ética-sobre-estética)
-* [Um designer deve às pessoas que os contratam não apenas o seu trabalho, mas também o seu conselho.](#um-designer-deve-às-pessoas-que-os-contratam-não-apenas-o-seu-trabalho-,-mas-também-o-seu-conselho)
-* [Um designer valoriza a crítica.](#um-designer-valoriza-a-crítica)
-* [Um designer esforça-se por conhecer o seu público.](#um-designer-esforça-se-por-conhecer-o-seu-público)
-* [Um designer não acredita em casos extremos.](#um-designer-não-acredita-em-casos-extremos)
-* [Um designer faz parte de uma comunidade profissional.](#um-designer-faz-parte-de-uma-comunidade-profissional)
-* [Um designer promove uma cultura diversificada e competitiva.](#um-designer-promove-uma-cultura-diversificada-e-competitiva)
-* [Um designer tem tempo para auto-reflexão.](#um-designer-tem-tempo-para-auto-reflexão)
+1. [Um Designer é antes de mais um ser humano.](#um-designer-é-antes-de-mais-um-ser-humano)
+2. [Um designer é responsável pelo seu trabalho.](#um-designer-é-responsável-pelo-seu-trabalho)
+3. [Um designer valoriza ética sobre estética.](#um-designer-valoriza-ética-sobre-estética)
+4. [Um designer deve às pessoas que os contratam não apenas o seu trabalho, mas também o seu conselho.](#um-designer-deve-às-pessoas-que-os-contratam-não-apenas-o-seu-trabalho-,-mas-também-o-seu-conselho)
+5. [Um designer valoriza a crítica.](#um-designer-valoriza-a-crítica)
+6. [Um designer esforça-se por conhecer o seu público.](#um-designer-esforça-se-por-conhecer-o-seu-público)
+7. [Um designer não acredita em casos extremos.](#um-designer-não-acredita-em-casos-extremos)
+8. [Um designer faz parte de uma comunidade profissional.](#um-designer-faz-parte-de-uma-comunidade-profissional)
+9. [Um designer promove uma cultura diversificada e competitiva.](#um-designer-promove-uma-cultura-diversificada-e-competitiva)
+10. [Um designer tem tempo para auto-reflexão.](#um-designer-tem-tempo-para-auto-reflexão)
 
 ***
 

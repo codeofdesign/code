@@ -7,16 +7,16 @@ complete: true
 
 # A code of design
 
-- [A designer is first and foremost a human being.](#a-designer-is-first-and-foremost-a-human-being)
-- [A designer is responsible for the work they put into the world.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
-- [A designer values impact over form.](#a-designer-values-impact-over-form)
-- [A designer owes the people who hire them not just their labor, but their counsel.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
-- [A designer welcomes criticism.](#a-designer-welcomes-criticism)
-- [A designer strives to know their audience.](#a-designer-strives-to-know-their-audience)
-- [A designer does not believe in edge cases.](#a-designer-does-not-believe-in-edge-cases)
-- [A designer is part of a professional community.](#a-designer-is-part-of-a-professional-community)
-- [A designer welcomes a diverse and competitive field.](#a-designer-welcomes-a-diverse-and-competitive-field)
-- [A designer takes time for self-reflection.](#a-designer-takes-time-for-self-reflection)
+1. [A designer is first and foremost a human being.](#a-designer-is-first-and-foremost-a-human-being)
+2. [A designer is responsible for the work they put into the world.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
+3. [A designer values impact over form.](#a-designer-values-impact-over-form)
+4. [A designer owes the people who hire them not just their labor, but their counsel.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
+5. [A designer welcomes criticism.](#a-designer-welcomes-criticism)
+6. [A designer strives to know their audience.](#a-designer-strives-to-know-their-audience)
+7. [A designer does not believe in edge cases.](#a-designer-does-not-believe-in-edge-cases)
+8. [A designer is part of a professional community.](#a-designer-is-part-of-a-professional-community)
+9. [A designer welcomes a diverse and competitive field.](#a-designer-welcomes-a-diverse-and-competitive-field)
+10. [A designer takes time for self-reflection.](#a-designer-takes-time-for-self-reflection)
 
 ---
 
