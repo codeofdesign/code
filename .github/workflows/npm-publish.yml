@@ -32,6 +32,8 @@ jobs:
           git config user.email '17279882+s-rd@users.noreply.github.com'
           npm install
           npm run build
+          git add .
+          git commit -m "Update versions.js"
           npm version minor
           npm publish
           git push origin main
