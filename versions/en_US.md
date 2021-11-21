@@ -18,7 +18,7 @@ complete: true
 9. [A designer welcomes a diverse and competitive field.](#a-designer-welcomes-a-diverse-and-competitive-field)
 10. [A designer takes time for self-reflection.](#a-designer-takes-time-for-self-reflection)
 
----
+***
 
 ### A designer is first and foremost a human being.
 

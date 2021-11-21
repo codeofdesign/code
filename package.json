@@ -2,14 +2,23 @@
   "name": "codeofdesign",
   "version": "0.21.0",
   "description": "A designer's code of ethics.",
-  "main": "index.js",
+  "main": "dist/index.cjs.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transpile": "node ./scripts/write.js",
+    "prebuild": "npm run transpile",
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codeofdesign/code.git"
   },
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.umd.js",
+  "files": [
+    "dist"
+  ],
   "keywords": [
     "design",
     "ethics"
@@ -19,5 +28,12 @@
   "bugs": {
     "url": "https://github.com/codeofdesign/code/issues"
   },
-  "homepage": "https://github.com/codeofdesign/code#readme"
+  "homepage": "https://github.com/codeofdesign/code#readme",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "line-by-line": "^0.1.6",
+    "rollup": "^2.60.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
 }
