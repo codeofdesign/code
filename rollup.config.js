@@ -1,19 +1,4 @@
 import pkg from './package.json'
-import url from '@rollup/plugin-url'
-import copy from 'rollup-plugin-copy'
-
-const plugins = [
-  url({
-    include: ['versions/*.md'],
-    exclude: ['README.md'],
-    limit: 30000,
-  }),
-  copy({
-    targets: [
-      { src: 'versions/*.md', dest: 'dist/md' },
-    ],
-  }),
-]
 
 export default [
   {
@@ -24,7 +9,6 @@ export default [
       format: 'umd',
       exports: 'default',
     },
-    plugins,
   },
   {
     input: 'index.js',
@@ -32,6 +16,5 @@ export default [
       { file: pkg.main, format: 'cjs', exports: 'default' },
       { file: pkg.module, format: 'es', exports: 'default' },
     ],
-    plugins,
   },
 ]

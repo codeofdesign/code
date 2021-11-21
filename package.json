@@ -5,6 +5,8 @@
   "main": "dist/index.cjs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "transpile": "node ./scripts/write.js",
+    "prebuild": "npm run transpile",
     "build": "rollup -c",
     "dev": "rollup -c -w"
   },
@@ -28,12 +30,10 @@
   },
   "homepage": "https://github.com/codeofdesign/code#readme",
   "devDependencies": {
-    "@rollup/plugin-url": "^6.1.0",
     "fs": "^0.0.1-security",
     "js-yaml": "^4.1.0",
     "line-by-line": "^0.1.6",
     "rollup": "^2.60.0",
-    "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-node-resolve": "^5.2.0"
   }
 }

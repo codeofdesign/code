@@ -50,7 +50,7 @@ module.exports = (id, cb) => {
           return
         }
         break
-      case line === '' || /^\s/.test(line):
+      case line === '' || /^\s|^</.test(line):
         shouldParseLine = false
         break
       case /^#\s/.test(line):
