@@ -1,10 +1,11 @@
-const Reader = require('line-by-line')
-
 /**
  *  Parse
  *  Traverses a .md file and returns an object
  */
-module.exports = (id, cb) => {
+
+const Reader = require('line-by-line')
+
+const parse = (id, cb) => {
 
   /**
    *  Metadata
@@ -106,3 +107,5 @@ module.exports = (id, cb) => {
   lr.on('line', onLine)
   lr.on('end', () => cb({ meta, content }))
 }
+
+module.exports = parse

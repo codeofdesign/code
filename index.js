@@ -1,14 +1,9 @@
-const ids = [
-  'ar', 'cs', 'de_DE', 'en_US', 'es_ES',
-  'es_MX', 'fa', 'fi', 'fr_FR', 'id_ID',
-  'it_IT', 'ja_JP', 'nb', 'nl', 'nn', 'pl',
-  'pt_BR', 'pt_PT', 'ru_RU', 'sv_SE', 'tr_TR',
-]
+import { all, complete } from './versions.js'
 
 const format = id => {
   return {
     id: id,
-    complete: true,
+    complete: complete.includes(id),
     files: {
       json: `./json/${id}.json`,
       yaml: `./yaml/${id}.yml`,
@@ -17,9 +12,9 @@ const format = id => {
   }
 }
 
-const versions = ids.map(l => format(l))
+const vers = all.map(l => format(l))
 
 export default {
-  ids,
-  versions,
+  ids: all,
+  versions: vers,
 }
