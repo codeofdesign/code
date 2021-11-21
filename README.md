@@ -6,7 +6,7 @@ This code belongs to you. Make it yours. Make it great.
 
 ## Contents
 
-- [Translations](#translations)
+- [Versions](#versions)
 - [Contributing](#contributing)
 - [License](#license)
 
