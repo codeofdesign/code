@@ -66,7 +66,7 @@ Wanneer je besloten hebt voor wie je iets ontwerpt, maak je een impliciete verkl
 
 Facebook claimt dat het nu twee miljard gebruikers heeft. 1% van twee miljard mensen, wat de meeste producten als edge cases zien, is twintig miljoen mensen. Dit zijn de mensen aan randen van de samenleving.
 
-"Wanneer je iets een edge case benoemt, benoem je eigenlijk niets meer dan de grenzen waar jij om geeft." - Eric Meyer Dit zijn de transgenders die verwart raken aan de randen van "real name" projecten. Dit zijn de alleenstaande moeders die tussen wal en schip raken wanneer beide ouders een machtiging moeten ondertekenen. Dit zijn de bejaarde immigranten die op komen dagen om te stemmen maar geen stembiljet in hun eigen taal kunnen krijgen.
+"Wanneer je iets een edge case benoemt, benoem je eigenlijk niets meer dan de grenzen waar jij om geeft." - Eric Meyer Dit zijn de transgenders die verward raken aan de randen van "real name" projecten. Dit zijn de alleenstaande moeders die tussen wal en schip raken wanneer beide ouders een machtiging moeten ondertekenen. Dit zijn de bejaarde immigranten die op komen dagen om te stemmen maar geen stembiljet in hun eigen taal kunnen krijgen.
 
 Dit zijn geen randgevallen. Dit zijn mensen, en wij zijn hen niets minder dan ons beste werk verschuldigt.
 
