@@ -5,7 +5,7 @@ shortname: Bokmål
 complete: true
 ---
 
-# Etiske retningslinjer for designere
+# En designkodeks
 
 1. [En designer er først og fremst et menneske.](#en-designer-er-f%C3%B8rst-og-fremst-et-menneske)
 2. [En designer er ansvarlig for det som lages.](#en-designer-er-ansvarlig-for-det-som-lages)
