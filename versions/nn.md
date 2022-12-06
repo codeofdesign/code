@@ -5,11 +5,11 @@ shortname: Nynorsk
 complete: true
 ---
 
-# Etiske retningsliner for designarar
+# Ein designkodeks
 
 1. [Ein designar er fyrst og fremst eit menneske.](#ein-designar-er-fyrst-og-fremst-eit-menneske)
 2. [Ein designar er ansvarleg for arbeidet som vert laga.](#ein-designar-er-ansvarleg-for-arbeidet-som-vert-laga)
-3. [Ein designar verdset verknad over form.](#ein-designar-verdset-verknad-over-form)
+3. [Ein designar verdset verknad framfor form.](#ein-designar-verdset-verknad-framfor-form)
 4. [Ein designar forpliktar seg til å gje oppdragsgjevarane sine råd – ikkje berre arbeid.](#ein-designar-forpliktar-seg-til-å-gje-oppdragsgjevarane-sine-råd--ikkje-berre-arbeid)
 5. [Ein designar verdset og oppfordrar til kritikk.](#ein-designar-verdset-og-oppfordrar-til-kritikk)
 6. [Ein designar strevar etter å kjenne dei ein designar for.](#ein-designar-strevar-etter-å-kjenne-dei-ein-designar-for)
